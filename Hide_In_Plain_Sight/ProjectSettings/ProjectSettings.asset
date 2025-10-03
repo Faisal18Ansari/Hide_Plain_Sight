@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 47b4173ea5b8d6b47bc41f89f375bac7
+  productGUID: 4087e6debb24cba4ab4a305922cc4091
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -600,8 +600,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Hide_In_Plain_Sight
-  metroPackageVersion: 
+  metroPackageName: HideInPlainSight
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -609,7 +609,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Hide_In_Plain_Sight
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Hide_In_Plain_Sight
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -676,10 +676,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b55cf640-c1aa-4920-91cc-fefbb0542661
+  cloudProjectId: 495ebf70-5b34-4007-8a9e-4f5e547cc67d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Hide_In_Plain_Sight 2025-10-02_23-45-32
+  projectName: Hide_In_Plain_Sight 2025-10-03_18-21-54
   organizationId: unity_f30b2d2fefc46939e1ca
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
