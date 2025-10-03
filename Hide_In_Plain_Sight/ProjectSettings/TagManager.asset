@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - SkyEnemy
+  - GroundEnemy
+  - Environment
+  - TransparentObject
+  - Exit
+  - PickupObject
+  - DetectionRay
+  - Barrier
   layers:
   - Default
   - TransparentFX
@@ -13,16 +22,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Ground
+  - SkyMonsters
+  - GroundEnemies
+  - Environment
+  - TransparentObjects
+  - LightDetection
+  - Barriers
+  - GameUI
+  - Projectile
   - 
   - 
   - 
@@ -38,6 +47,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 339460943
+    locked: 0
+  - name: SkyMonsters
+    uniqueID: 4285603937
+    locked: 0
+  - name: Environment
+    uniqueID: 1180350731
+    locked: 0
+  - name: TransparentObjects
+    uniqueID: 1100367289
+    locked: 0
+  - name: Player
+    uniqueID: 739683139
+    locked: 0
+  - name: GroundEnemies
+    uniqueID: 2220809675
+    locked: 0
+  - name: ForegroundFX
+    uniqueID: 50818145
+    locked: 0
+  - name: UI
+    uniqueID: 2098114937
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
