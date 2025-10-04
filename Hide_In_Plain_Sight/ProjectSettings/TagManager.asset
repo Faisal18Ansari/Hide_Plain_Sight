@@ -50,6 +50,9 @@ TagManager:
   - name: Background
     uniqueID: 339460943
     locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: SkyMonsters
     uniqueID: 4285603937
     locked: 0
@@ -70,7 +73,4 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 2098114937
-    locked: 0
-  - name: Default
-    uniqueID: 0
     locked: 0
